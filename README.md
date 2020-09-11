@@ -4,6 +4,6 @@ This is a description!
 Hello World!
 
 
-##Subheader
+## Subheader
 
-Whatch tutorial on YouTube.
+Watch tutorial on YouTube.
